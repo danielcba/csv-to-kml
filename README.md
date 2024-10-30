@@ -66,10 +66,6 @@ kml.save("/mi-carpeta/puntos.kml")
 - Asegúrate de que la ruta al archivo CSV en el script coincida con la ubicación real de tu archivo CSV.
 - El script asume que el archivo CSV contiene columnas llamadas `latitud` y `longitud`.
 
-### Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
-
 ### Contribuciones
 
 ¡Las contribuciones son bienvenidas! No dudes en enviar un Pull Request.
@@ -77,3 +73,7 @@ Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICEN
 ### Contacto
 
 Si tienes alguna pregunta o sugerencia, por favor abre un issue o contacta conmigo.
+
+### Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
